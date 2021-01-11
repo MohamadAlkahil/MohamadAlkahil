@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💻 I'm a Computer Engineering Student
+💻 I'm a Computer Engineering Student<br />
 🌱 I’m currently learning ...
 
 
