@@ -2,7 +2,6 @@
 
 
 💻 I'm a Computer Engineering Student<br />
-🌱 I’m currently learning ...
 
 
 ### Languages and Tools:
