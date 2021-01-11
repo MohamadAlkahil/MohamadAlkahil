@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-
-- 🌱 I’m currently learning ...
+💻 I'm a Computer Engineering Student
+🌱 I’m currently learning ...
 
 <br />
 
