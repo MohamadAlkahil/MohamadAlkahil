@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💻 I'm a Computer Engineering Student<br />
+💻 I'm a recent Computer Engineering graduate<br />
 
 
 ### Connect with me:
